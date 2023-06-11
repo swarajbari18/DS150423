@@ -2,6 +2,8 @@
 
 
 import json
+# Here in open statement i gave the path of my system, but when you check my assignment, please make sure that yiu modify the path
+# according to your system mam.
 with open(r'D:\Edyoda\Assignment_6_json&oops\employee.json') as file1:
     data = json.load(file1)
 
